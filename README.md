@@ -17,7 +17,9 @@ A simple web application where the computer generates a random number and the us
 
 ## Demo
 
-![Guess a Number Screenshot](screenshot.png)
+Check out the live demo [here](https://amrit-sharma-7.github.io/Guess-Number/).
+
+![Guess a Number Screenshot](Guess-Number-Demo.gif)
 
 ## Project Structure
 
